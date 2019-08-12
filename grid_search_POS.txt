@@ -1,0 +1,63 @@
+# GRID SEARCH
+
+batch_size = 16
+lr = 5e-5, 3e-5, 2e-5, 1e-5
+epochs = 2, 3, 4, 5
+
+## Experiment 1:
+
+lr = 1e-5
+epochs = 2
+
+### Results
+
+Epoch: 1 Train loss: 0.258 Train accuracy: 92.409% Validation loss: 0.065, Validation Accuracy: 98.183%
+Epoch: 2 Train loss: 0.053 Train accuracy: 98.456% Validation loss: 0.060, Validation Accuracy: 98.340%
+
+
+## Experiment 2:
+
+lr = 1e-5
+epochs = 3
+
+### Results
+
+Epoch: 1 Train loss: 0.297 Train accuracy: 91.261% Validation loss: 0.066, Validation Accuracy: 98.157%
+Epoch: 2 Train loss: 0.054 Train accuracy: 98.410% Validation loss: 0.060, Validation Accuracy: 98.350%
+Epoch: 3 Train loss: 0.039 Train accuracy: 98.823% Validation loss: 0.060, Validation Accuracy: 98.400%
+
+## Experiment 3:
+
+lr = 1e-5
+epochs = 4
+
+### Results
+
+Epoch: 1 Train loss: 0.336 Train accuracy: 90.092% Validation loss: 0.068, Validation Accuracy: 98.130%
+Epoch: 2 Train loss: 0.056 Train accuracy: 98.335% Validation loss: 0.061, Validation Accuracy: 98.340%
+Epoch: 3 Train loss: 0.039 Train accuracy: 98.839% Validation loss: 0.059, Validation Accuracy: 98.383%
+Epoch: 4 Train loss: 0.030 Train accuracy: 99.087% Validation loss: 0.061, Validation Accuracy: 98.431%
+
+## Experiment 4:
+
+lr = 1e-5
+epochs = 5
+
+### Results
+
+Epoch: 1 Train loss: 0.369 Train accuracy: 89.125% Validation loss: 0.071, Validation Accuracy: 98.066%
+Epoch: 2 Train loss: 0.057 Train accuracy: 98.320% Validation loss: 0.059, Validation Accuracy: 98.295%
+Epoch: 3 Train loss: 0.040 Train accuracy: 98.824% Validation loss: 0.057, Validation Accuracy: 98.458%
+Epoch: 4 Train loss: 0.029 Train accuracy: 99.112% Validation loss: 0.060, Validation Accuracy: 98.464%
+Epoch: 5 Train loss: 0.024 Train accuracy: 99.291% Validation loss: 0.061, Validation Accuracy: 98.478%
+
+## Experiment 5:
+
+lr = 2e-5
+epochs = 2
+
+### Results
+
+Epoch: 1 Train loss: 0.257 Train accuracy: 92.439% Validation loss: 0.068, Validation Accuracy: 98.094%
+Epoch: 2 Train loss: 0.052 Train accuracy: 98.468% Validation loss: 0.060, Validation Accuracy: 98.321%
+

@@ -1,0 +1,84 @@
+# GRID SEARCH
+
+batch_size = 16
+lr = 5e-5, 3e-5, 2e-5
+epochs = 2,3
+
+
+## Experiment 1:
+
+lr = 5e-5
+epochs = 2
+
+### Results
+
+Epoch: 1 Train loss: 0.663 Train accuracy: 72.368% Validation loss: 0.532, Validation Accuracy: 78.926%
+Epoch: 2 Train loss: 0.457 Train accuracy: 82.407% Validation loss: 0.505, Validation Accuracy: 80.865%
+
+
+## Experiment 2:
+
+lr = 3e-5
+epochs = 2
+
+### Results
+
+Epoch: 1 Train loss: 0.633 Train accuracy: 73.707% Validation loss: 0.539, Validation Accuracy: 78.798%
+Epoch: 2 Train loss: 0.426 Train accuracy: 83.767% Validation loss: 0.534, Validation Accuracy: 80.705%
+
+
+## Experiment 3:
+
+lr = 2e-5
+epochs = 2
+
+### Results
+
+Epoch: 1 Train loss: 0.626 Train accuracy: 73.906% Validation loss: 0.499, Validation Accuracy: 80.970%
+Epoch: 2 Train loss: 0.429 Train accuracy: 83.612% Validation loss: 0.526, Validation Accuracy: 81.050%
+
+## Experiment 4:
+
+lr = 1e-5 
+epochs = 2
+
+### Results
+
+Epoch: 1 Train loss: 0.635 Train accuracy: 73.207% Validation loss: 0.524, Validation Accuracy: 79.471%
+Epoch: 2 Train loss: 0.463 Train accuracy: 82.114% Validation loss: 0.527, Validation Accuracy: 81.170%
+
+
+## Experiment 5:
+
+lr = 5e-5
+epochs = 3
+
+### Results
+
+Epoch: 1 Train loss: 0.673 Train accuracy: 71.813% Validation loss: 0.578, Validation Accuracy: 76.538%
+Epoch: 2 Train loss: 0.510 Train accuracy: 80.082% Validation loss: 0.545, Validation Accuracy: 79.199%
+Epoch: 3 Train loss: 0.338 Train accuracy: 87.571% Validation loss: 0.616, Validation Accuracy: 80.280%
+
+## Experiment 6:
+
+lr = 1e-5
+epochs = 3
+
+### Results
+
+Epoch: 1 Train loss: 0.652 Train accuracy: 72.258% Validation loss: 0.530, Validation Accuracy: 79.447%
+Epoch: 2 Train loss: 0.474 Train accuracy: 81.669% Validation loss: 0.520, Validation Accuracy: 81.090%
+Epoch: 3 Train loss: 0.383 Train accuracy: 85.610% Validation loss: 0.585, Validation Accuracy: 80.881%
+
+
+## Experiment 7:
+
+lr = 3e-5
+epochs = 3
+
+### Results
+
+Epoch: 1 Train loss: 0.645 Train accuracy: 73.047% Validation loss: 0.534, Validation Accuracy: 79.263%
+Epoch: 2 Train loss: 0.465 Train accuracy: 82.120% Validation loss: 0.527, Validation Accuracy: 80.905%
+Epoch: 3 Train loss: 0.310 Train accuracy: 88.703% Validation loss: 0.625, Validation Accuracy: 81.306%
+
