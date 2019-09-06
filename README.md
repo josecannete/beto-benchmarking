@@ -6,6 +6,7 @@
 
 ### Reported:
 
+#### 73.15 [LASER](https://arxiv.org/abs/1812.10464)
 #### 77.8 [Original Multilingual BERT repository](https://github.com/google-research/bert/blob/master/multilingual.md)
 #### 78.5 [Multilingual BERT on "Beto, Bentz, Becas: The Surprising Cross-Lingual Effectiveness of BERT"](https://arxiv.org/pdf/1904.09077.pdf)
 #### 80.8 [XLM (MLM+TLM)](https://arxiv.org/pdf/1901.07291.pdf)
@@ -55,6 +56,7 @@ Detailed: experiments_NER.txt
 
 ### Reported
 
+#### 88.75 [LASER](https://arxiv.org/abs/1812.10464)
 #### 95.7 [Multilingual BERT on "Beto, Bentz, Becas: The Surprising Cross-Lingual Effectiveness of BERT"](https://arxiv.org/pdf/1904.09077.pdf)
 
 ### Ours
