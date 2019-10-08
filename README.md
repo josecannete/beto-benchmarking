@@ -68,3 +68,11 @@ Detailed: experiments_NER.txt
 #### 92.3/86.5 [Multilingual BERT on "Beto, Bentz, Becas: The Surprising Cross-Lingual Effectiveness of BERT"](https://arxiv.org/pdf/1904.09077.pdf)
 
 ### Ours
+
+## PAWS-X
+
+### Reported
+
+#### 89 and 90.7 [Multilingual BERT on "PAWS-X: A Cross-lingual Adversarial Dataset for Paraphrase Identification"](https://arxiv.org/abs/1908.11828)
+
+### Ours
