@@ -1,0 +1,88 @@
+## Experiment 1
+
+batch_size = 16
+lr = 3e-5
+epochs = 3
+
+Epoch: 1 Train loss: 0.495 Train accuracy: 72.884% Validation loss: 0.373, Validation Accuracy: 86.300%
+Epoch: 2 Train loss: 0.207 Train accuracy: 91.951% Validation loss: 0.378, Validation Accuracy: 87.100%
+Epoch: 3 Train loss: 0.115 Train accuracy: 95.608% Validation loss: 0.378, Validation Accuracy: 88.900%
+
+## Experiment 2
+
+batch_size = 16
+lr = 3e-5
+epochs = 4
+
+Epoch: 1 Train loss: 0.540 Train accuracy: 69.042% Validation loss: 0.444, Validation Accuracy: 82.600%
+Epoch: 2 Train loss: 0.242 Train accuracy: 90.495% Validation loss: 0.373, Validation Accuracy: 86.300%
+Epoch: 3 Train loss: 0.145 Train accuracy: 94.471% Validation loss: 0.402, Validation Accuracy: 86.500%
+Epoch: 4 Train loss: 0.087 Train accuracy: 96.697% Validation loss: 0.464, Validation Accuracy: 86.950%
+
+
+## Experiment 3
+
+batch_size = 16
+lr = 3e-5
+epochs = 2
+
+Epoch: 1 Train loss: 0.551 Train accuracy: 69.012% Validation loss: 0.416, Validation Accuracy: 80.550%
+Epoch: 2 Train loss: 0.273 Train accuracy: 88.607% Validation loss: 0.379, Validation Accuracy: 84.850%
+
+## Experiment 4
+
+batch_size = 16
+lr = 2e-5
+epochs = 3
+
+Epoch: 1 Train loss: 0.507 Train accuracy: 71.365% Validation loss: 0.347, Validation Accuracy: 85.150%
+Epoch: 2 Train loss: 0.209 Train accuracy: 91.645% Validation loss: 0.352, Validation Accuracy: 87.750%
+Epoch: 3 Train loss: 0.124 Train accuracy: 95.259% Validation loss: 0.358, Validation Accuracy: 88.450%
+
+## Experiment 5
+
+batch_size = 16
+lr = 2e-5
+epochs = 4
+
+Epoch: 1 Train loss: 0.494 Train accuracy: 72.687% Validation loss: 0.378, Validation Accuracy: 85.500%
+Epoch: 2 Train loss: 0.201 Train accuracy: 92.143% Validation loss: 0.300, Validation Accuracy: 89.400%
+Epoch: 3 Train loss: 0.122 Train accuracy: 95.307% Validation loss: 0.332, Validation Accuracy: 88.600%
+Epoch: 4 Train loss: 0.077 Train accuracy: 97.067% Validation loss: 0.406, Validation Accuracy: 88.950%
+
+## Experiment 6
+
+batch_size = 16
+lr = 2e-5
+epochs = 2
+
+Epoch: 1 Train loss: 0.578 Train accuracy: 66.016% Validation loss: 0.388, Validation Accuracy: 83.600%
+Epoch: 2 Train loss: 0.251 Train accuracy: 89.708% Validation loss: 0.332, Validation Accuracy: 87.650%
+
+## Experiment 7
+
+batch_size = 16
+lr = 1e-5
+epochs = 3
+
+Epoch: 1 Train loss: 0.560 Train accuracy: 67.773% Validation loss: 0.405, Validation Accuracy: 81.700%
+Epoch: 2 Train loss: 0.270 Train accuracy: 88.440% Validation loss: 0.347, Validation Accuracy: 86.100%
+Epoch: 3 Train loss: 0.178 Train accuracy: 92.787% Validation loss: 0.380, Validation Accuracy: 86.800%
+
+## Experiment 8
+
+batch_size = 16
+lr = 1e-5
+epochs = 4
+
+Epoch: 1 Train loss: 0.586 Train accuracy: 65.257% Validation loss: 0.380, Validation Accuracy: 84.150%
+Epoch: 2 Train loss: 0.253 Train accuracy: 89.678% Validation loss: 0.344, Validation Accuracy: 87.950%
+Epoch: 3 Train loss: 0.161 Train accuracy: 93.833% Validation loss: 0.327, Validation Accuracy: 88.650%
+Epoch: 4 Train loss: 0.116 Train accuracy: 95.566% Validation loss: 0.388, Validation Accuracy: 88.450%
+
+## Experiment 8
+
+batch_size = 16
+lr = 1e-5
+epochs = 2
+
