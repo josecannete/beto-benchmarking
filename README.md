@@ -76,3 +76,7 @@ Detailed: experiments_NER.txt
 #### 89 and 90.7 [Multilingual BERT on "PAWS-X: A Cross-lingual Adversarial Dataset for Paraphrase Identification"](https://arxiv.org/abs/1908.11828)
 
 ### Ours
+
+Best: 89.55
+
+Detailed: experiments_PAWSX.txt
