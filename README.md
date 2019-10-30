@@ -80,3 +80,19 @@ Detailed: experiments_NER.txt
 Best: 89.55
 
 Detailed: experiments_PAWSX.txt
+
+## MLQA
+
+### Reported
+
+#### 64.3 / 46.6 [Multilingual BERT on "MLQA: Evaluating Cross-lingual Extractive Question Answering"](https://arxiv.org/abs/1910.07475)
+#### 68.0 / 49.8 [XLM on "MLQA: Evaluating Cross-lingual Extractive Question Answering"](https://arxiv.org/abs/1910.07475)
+
+
+## XQuAD
+
+### Reported
+
+#### 74.3 [JointMulti Multilingual BERT on "On the Cross-lingual Transferability of Monolingual Representations"](https://arxiv.org/abs/1910.11856)
+
+### Ours
