@@ -1,4 +1,14 @@
+**This is work in progress**
+
 # Beto Benchmarks
+
+The following table shows the BETO results in the Spanish version of every task/benchamrk with links to the
+hyperparameter settings used in every experiment. 
+We compare BETO (cased and uncased) with the Best Multilingual-BERT result that 
+we found in the literature (as of October 2019) highlighting 
+the results whenever BETO ourperform Multilingual BERT. 
+The table also shows some alternative methods for the same tasks (not necessarily BERT-based methods).
+References for all methods are included below.
 
 |Task   | BETO-cased    | BETO-uncased  | Best Multilingual Bert    | Other results                  |
 |-------|--------------:|--------------:|--------------------------:|-------------------------------:|
