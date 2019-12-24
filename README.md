@@ -13,7 +13,7 @@ References for all methods are included below.
 |Task   | BETO-cased    | BETO-uncased  | Best Multilingual Bert    | Other results                  |
 |-------|--------------:|--------------:|--------------------------:|-------------------------------:|
 |XNLI   | -----         | [**80.15**](grid_search_XNLI.txt)  | 78.50 [2]| 80.80 [5], 77.80 [1], 73.15 [4]|
-|POS    | -----         | [**98.44**](grid_search_POS.txt)   | 97.10 [2]| 98.91 [6], 96.71 [3]           |
+|POS    | **98.97**         | [**98.44**](grid_search_POS.txt)   | 97.10 [2]| 98.91 [6], 96.71 [3]           |
 |PAWS-X | 89.05         | [89.55](experiments_pawsx.txt) | 90.70 [8]|
 |NER-C  | 87.24         | 82.67                          | 87.38 [2]| 87.18 [3]                      |
 |NER-W  | -----         | -----                          | 92.50 [7]|                                |
